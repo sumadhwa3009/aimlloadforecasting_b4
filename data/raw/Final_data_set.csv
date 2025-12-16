@@ -1,4 +1,4 @@
-time,temperature,rain,snowfall,dew_point,relative_humidity,precipitation,snow_depth,wind_speed_10m,wind_speed_100m,wind_direction_10m,wind_direction_100m,wind_gusts_10m,ES_load_actual_entsoe_transparency,ES_load_forecast_entsoe_transparency,ES_solar_generation_actual,ES_wind_onshore_generation_actual
+time,temperature,rain,snowfall,dew_point,humidity,precipitation,snow_depth,wind_speed_10m,wind_speed_100m,wind_direction_10m,wind_direction_100m,wind_gusts_10m,actual_load,forecast_load,solar_generation,wind_generation
 2014-12-31T23:00,7.5,0,0,4.5,81,0,0,6.8,15.5,18,31,15.1,,,,
 2015-01-01T00:00,7.3,0,0,4.2,81,0,0,7.9,16.6,16,27,15.8,,,,
 2015-01-01T01:00,7,0,0,3.9,81,0,0,8.3,16.6,18,24,18,22734,23515,50,5461
